@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BossLevel
+comment1.params=
+comment1.target=BossLevel()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ boss()
+comment4.params=
+comment4.target=void\ player()
+comment5.params=
+comment5.target=void\ lebensAnzeige()
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Gegner
+comment1.params=
+comment1.target=Gegner()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ gegnerShoot()
+comment4.params=
+comment4.target=void\ getroffen()
+comment5.params=
+comment5.target=boolean\ checktLeben()
+comment6.params=x
+comment6.target=void\ followMoving(int)
+comment7.params=Gegner2
+comment7.target=void\ noOverlapping(Gegner)
+numComments=8

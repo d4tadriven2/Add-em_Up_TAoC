@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ergebnis04
+comment1.params=
+comment1.target=Ergebnis04()
+comment2.params=option
+comment2.target=void\ ergebnis04(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ verarbeitung()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ ergebnisHit()
+numComments=6
