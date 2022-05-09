@@ -9,4 +9,4 @@ PURPOSE OF PROJECT: Interactive learning game for undergrad Math's.
 VERSION or DATE: 1.3
 HOW TO START THIS PROJECT: Greenfoot
 AUTHORS: d4tadriven2
-USER INSTRUCTIONS: Use gfar file to start the game in Greenfoot.
+USER INSTRUCTIONS: Use gfar file to start the game in Greenfoot or simply git clone the repo and open in Greenfoot via Scenario.
